@@ -1,2 +1,3 @@
-# Landing-Page-Arquitetura
-Este é o projeto do desafio do modulo base do curso de Tecnologia da Escola DNC
+# Desafio 1 - Resolução
+Link do site disponibilizado: https://desafiodnclandingpagearquitetura.netlify.app/
+Link da planilha de registros de informações: https://docs.google.com/spreadsheets/d/1bgkncwBXefURqN-8elGxQVl4ykHOpEUGxCrwwhz_Su4/edit
