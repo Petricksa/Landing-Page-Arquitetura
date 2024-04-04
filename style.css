@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#MenuSuperior{
+    background-color: #303030;
+    padding-top: 100px;
+    padding-left: 50px;  
+    padding-bottom: 100px;
+    color: #FFFFFF;
+}
+
+#TituloMenuSuperior{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 55px;
+    
+}
+
+#SubtituloMenuSuperior{
+    margin-top: 25px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+#MenuInformacional{
+    color: #000000;
+    background-color: #f9f9f9;
+    display: grid;
+    grid-auto-flow: column;
+    padding-left: 150px;
+    padding-top: 50px;
+    line-height: 15px;
+   padding-bottom: 50px;
+  
+}
+
+.textonumero{
+    font-size: 40px;
+}
+
+.textodescricao{
+    font-size: 20px;
+}
+
+#SecaoHistoria{
+    display: grid;
+    grid-auto-flow: column;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+#titulohistoria{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#paragrafohistoria{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+#TextoSecaoHistoria{
+    margin-left: 90px;
+    margin-top: 200px;
+}
+
+#Formulario{
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 50px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    background-color: #FFFFFF;
+    margin-top: 50px;  
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+    color: #0000004D;
+    font-weight: bolder;
+}    
+
+button{
+    width: 286px;
+    height: 74px;
+    margin-top: 50px;  
+    margin-bottom: 50px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 15px;
+    font-size: 25px;
+    background-color:#C07212;
+    color: #FFFFFF;
+    font-weight: bolder;
+    cursor: pointer;
+
+}
+
+button:hover{
+    background-color: #e19538;
+    color: white;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #150d03;
+    transition-duration: 0.5s;
+}
